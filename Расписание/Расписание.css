@@ -1,0 +1,45 @@
+h1{
+    background-color: rgb(217, 225, 233);
+    margin: 0px;
+}
+
+body{
+    margin: 0;
+}
+
+.div1{
+    padding: 20px 15px;
+    max-width: 600px;
+    background-color: white;
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(217, 225, 233);
+    height: 300px;
+}
+
+header{
+    margin: 10px;
+}
+
+.p1{
+    font-size: 26px;
+}
+
+.tb1 th {
+    background-color: #7bacf7; 
+}
+
+.tb1 th:first-child {
+    background-color: #ffffff;
+}
+.tb2{
+    background-color: #7bacf7; 
+}
+
+table{
+    width: 1250px;
+    height: 240px;
+}
